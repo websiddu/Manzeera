@@ -3,7 +3,8 @@ Its time to release my "Manzeera Theme" - a theme with pastel colours which dont
 
 
 ## Take a look!
-Manzeera theme variations in shown in TextMate with Ruby code and the font "Menlo".
+Manzeera theme in shown in SublimeText2 with SASS code in Ubuntu 12.04.
+
 ![SASS code in Manzeera](https://github.com/sidg/Manzeera/raw/master/preview/Manzeera.png)
 
 
@@ -11,26 +12,19 @@ Manzeera theme variations in shown in TextMate with Ruby code and the font "Menl
 * TextMate
 * Sublime Text 2 (Uses TextMate Themes)
 
-## Hex Palettes
+## How to install in Sublime Text 2
+* Open ST2, Preferences -> Browser Packages
+* Create a folder Manzeera, Paste the Manzeera.tmTheme in that folder
+* Come back ST2 Preferences -> Color Schemes -> Manzeera -> Manzeera =
+* Enjoy the theme
 
-### Manzeera
-
-
-### Manzeera
-
-
-`#ffffff` Background
-`#efefef` Current Line
-`#d6d6d6` Selection
-`#4d4d4c` Foreground
-`#8e908c` Comment
-`#c82829` Red
-`#f5871f` Orange
-`#eab700` Yellow
-`#718c00` Green
-`#3e999f` Aqua
-`#4271ae` Blue
-`#8959a8` Purple
+## Hex Palettes used in the theme
+`#333` Background
+`#444` Current Line
+`#1E69B550` Selection
+`#E6E6E6` Foreground
+`#75715E` Comment
+`#F07D7D` Brick Red
 
 ## The Future?
 I may be releasing other variations of this theme and will certainly be adding support for other more text editors/IDEs.
